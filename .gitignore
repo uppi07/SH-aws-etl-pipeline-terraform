@@ -1,0 +1,8 @@
+# Terraform local artifacts
+.terraform/
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.*
+
+# macOS
+.DS_Store
